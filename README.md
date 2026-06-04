@@ -1,16 +1,55 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header"/>
 
-<!--
-**pedro-nodejs/pedro-nodejs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou o Pedro Henrique
 
-Here are some ideas to get you started:
+💻 Analista de suporte N2
+📚 Estudante de Análise e Desenvolvimento de Sistemas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias que domino
+
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
+</p>
+---
+
+## 🔥 Projetos em destaque
+
+
+- 🛒 Sistema de Loja Esportiva
+- 🤖 Bot de WhatsApp
+- 📊 Sistema de Contabilidade
+- ✅ Lista de tarefas
+
+---
+
+## 📈 Atualmente
+
+- 🚀 Desenvolvendo com Node.js
+- 🤖 Aprendendo automações
+- 💡 Evoluindo como dev fullstack
+
+---
+
+## 🎯 Objetivo
+
+Me tornar um desenvolvedor fullstack profissional e criar sistemas reais.
+
+---
+
+## 📫 Contato
+
+5521966421064
+
+----
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-henrique-iglesias-maciel-b810b31a2/)
+
