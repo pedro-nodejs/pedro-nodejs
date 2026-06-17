@@ -1,4 +1,4 @@
-<img src="<a href="https://capsule-render.vercel.app/api?...">
+<img src="<a href="https://tse2.mm.bing.net/th/id/OIP.8_8HHLS7DM686qjk2kaQ4QHaEg?rs=1&pid=ImgDetMain&o=7&rm=3">
 
 <h1 align="center">👋 Olá, eu sou o Pedro Henrique</h1>
 <p align="center">💻 Analista de Suporte N2 | 🚀 Desenvolvedor em evolução</p>
