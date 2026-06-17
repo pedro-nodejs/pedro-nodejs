@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou o Pedro Henrique
 
-💻 Analista de suporte N2
+💻 Analista de suporte N2  
 📚 Estudante de Análise e Desenvolvimento de Sistemas  
 
 ---
@@ -17,23 +17,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
 </p>
+
 ---
 
 ## 🔥 Projetos em destaque
 
-
-- 🛒 Sistema de Loja Esportiva
-- 🤖 Bot de WhatsApp
-- 📊 Sistema de Contabilidade
-- ✅ Lista de tarefas
+- 🛒 Sistema de Loja Esportiva  
+- 🤖 Bot de WhatsApp  
+- 📊 Sistema de Contabilidade  
+- ✅ Lista de tarefas  
 
 ---
 
 ## 📈 Atualmente
 
-- 🚀 Desenvolvendo com Node.js
-- 🤖 Aprendendo automações
-- 💡 Evoluindo como dev fullstack
+- 🚀 Desenvolvendo com Node.js  
+- 🤖 Aprendendo automações  
+- 💡 Evoluindo como dev fullstack  
 
 ---
 
@@ -45,11 +45,11 @@ Me tornar um desenvolvedor fullstack profissional e criar sistemas reais.
 
 ## 📫 Contato
 
-5521966421064
+📱 21 96642-1064  
 
-----
+---
 
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-henrique-iglesias-maciel-b810b31a2/)
-
+``
