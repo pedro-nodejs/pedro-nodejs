@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Pedro%20Henrique&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="<a href="https://capsule-render.vercel.app/api?...">
 
 <h1 align="center">👋 Olá, eu sou o Pedro Henrique</h1>
 <p align="center">💻 Analista de Suporte N2 | 🚀 Desenvolvedor em evolução</p>
