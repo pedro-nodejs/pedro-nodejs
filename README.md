@@ -28,15 +28,6 @@
 
 ---
 
-## 🔥 Projetos em destaque
-
-- 🛒 Sistema de Loja Esportiva  
-- 🤖 Bot de WhatsApp Automation  
-- 📊 Sistema de Contabilidade  
-- ✅ API de Tarefas  
-
----
-
 ## 📈 Atualmente
 
 - 🚀 Desenvolvendo APIs com Node.js  
